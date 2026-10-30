@@ -17,9 +17,9 @@ Confusion matrix visualization
 Performance evaluation
 
 Model Performance
-Accuracy: 95.69% (previous recorded run)
+Test Accuracy: 98.81%
 Evaluation Metrics: Precision, Recall and F1-score.
-Actual results may vary depending on preprocessing and data splitting.
+Results are based on the current train-test split and may vary with different preprocessing or data splits.
 
 Project Structure
 fakenews/
